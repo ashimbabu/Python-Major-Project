@@ -1,0 +1,20 @@
+{
+    "001": {
+        "Name": "Ashim",
+        "Age": "35",
+        "Course": "AI",
+        "Contact": "9851000000"
+    },
+    "002": {
+        "Name": "Shyam",
+        "Age": "36",
+        "Course": "DS",
+        "Contact": "9851000000"
+    },
+    "003": {
+        "Name": "Gita",
+        "Age": "27",
+        "Course": "BCA",
+        "Contact": "9841000000"
+    }
+}
