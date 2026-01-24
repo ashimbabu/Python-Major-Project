@@ -1,0 +1,4 @@
+001,Shyam,35,Male,Sugar 
+001,Shyam,35,Male,Sugar
+002,Hari,36,Male,BP
+003,Sita,37,Female,Eye
