@@ -1,0 +1,26 @@
+{
+    "1000000001": {
+        "Name": "Ram",
+        "Age": "25",
+        "Account_Type": "25000",
+        "Balance": 10000.0
+    },
+    "10000000002": {
+        "Name": "Hari",
+        "Age": "30",
+        "Account_Type": "35000",
+        "Balance": 10000.0
+    },
+    "Gita": {
+        "Name": "Gita",
+        "Age": "45",
+        "Account_Type": "45000",
+        "Balance": 10000.0
+    },
+    "10000000003": {
+        "Name": "Rita",
+        "Age": "55",
+        "Account_Type": "55000",
+        "Balance": 10000.0
+    }
+}
