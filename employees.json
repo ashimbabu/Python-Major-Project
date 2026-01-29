@@ -1,0 +1,24 @@
+[
+    {
+        "emp_id": "001",
+        "name": "Ram",
+        "age": "20",
+        "gender": "M",
+        "department": "Engineering",
+        "position": "Civil Engineer",
+        "salary": "25000",
+        "email": "ram@gmail.com",
+        "phone": "984100000"
+    },
+    {
+        "emp_id": "002",
+        "name": "Sita",
+        "age": "25",
+        "gender": "F",
+        "department": "Training ",
+        "position": "Trainer",
+        "salary": "30000",
+        "email": "sita@gmail.com",
+        "phone": "9841000000"
+    }
+]
