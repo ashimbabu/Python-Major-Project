@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 50000.0,
+        "category": "Study",
+        "note": "ABC",
+        "date": "2026-02-07 22:20:42"
+    },
+    {
+        "amount": 10000.0,
+        "category": "Travel",
+        "note": "ABC",
+        "date": "2026-02-07 22:21:13"
+    }
+]
