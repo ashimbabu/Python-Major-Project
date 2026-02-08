@@ -1,0 +1,66 @@
+[
+    {
+        "id": "001",
+        "name": "Ram",
+        "class": "10",
+        "subjects": {
+            "Math": 98.0,
+            "Science": 75.0,
+            "English": 85.0,
+            "Computer": 95.0,
+            "Social": 86.0
+        },
+        "total": 439.0,
+        "percentage": 87.8,
+        "grade": "A",
+        "date": "2026-02-07 22:25:18"
+    },
+    {
+        "id": "002",
+        "name": "Gita",
+        "class": "10",
+        "subjects": {
+            "Math": 95.0,
+            "Science": 85.0,
+            "English": 65.0,
+            "Computer": 74.0,
+            "Social": 64.0
+        },
+        "total": 383.0,
+        "percentage": 76.6,
+        "grade": "B",
+        "date": "2026-02-07 22:25:55"
+    },
+    {
+        "id": "001",
+        "name": "Hari",
+        "class": "10",
+        "subjects": {
+            "Math": 85.0,
+            "Science": 95.0,
+            "English": 68.0,
+            "Computer": 98.0,
+            "Social": 56.0
+        },
+        "total": 402.0,
+        "percentage": 80.4,
+        "grade": "A",
+        "date": "2026-02-08 19:59:09"
+    },
+    {
+        "id": "002",
+        "name": "Rita",
+        "class": "9",
+        "subjects": {
+            "Math": 95.0,
+            "Science": 86.0,
+            "English": 85.0,
+            "Computer": 94.0,
+            "Social": 78.0
+        },
+        "total": 438.0,
+        "percentage": 87.6,
+        "grade": "A",
+        "date": "2026-02-08 20:00:00"
+    }
+]
