@@ -1,0 +1,20 @@
+[
+    {
+        "id": "001",
+        "name": "Shyam",
+        "phone": "9841000000",
+        "email": "shyam@hotmail.com",
+        "company": "Hill Stone Company",
+        "category": "Client",
+        "created": "2026-02-09 14:41:20"
+    },
+    {
+        "id": "002",
+        "name": "Hari",
+        "phone": "9851000000",
+        "email": "hari@yahoo.com",
+        "company": "Grass Company",
+        "category": "Vendor",
+        "created": "2026-02-09 14:42:33"
+    }
+]
