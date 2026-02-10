@@ -1,0 +1,32 @@
+[
+    {
+        "username": "admin",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin",
+        "created": "2026-02-10 15:24:04"
+    },
+    {
+        "username": "ashim",
+        "password": "4a5b7dcef8e462ac7708aa4ba36d069bd20d78c9fea68be31cb4274f3c746596",
+        "role": "admin",
+        "created": "2026-02-10 15:24:27"
+    },
+    {
+        "username": "ram",
+        "password": "a6b9d35a49b08e3fac7b55c40d82c9e94d3c95372a311a6e514fecfd8d25f12c",
+        "role": "user",
+        "created": "2026-02-10 15:25:15"
+    },
+    {
+        "username": "shyam",
+        "password": "10fafde90fe4807c69e48bfd0ace9009d2d7960d5791d332993d919fb18d4118",
+        "role": "user",
+        "created": "2026-02-10 15:25:33"
+    },
+    {
+        "username": "gita",
+        "password": "6c0e6e4e943a00bd2e4e5a4f71505191782a0057698d941f6a7bc488285a5ce8",
+        "role": "user",
+        "created": "2026-02-10 15:25:50"
+    }
+]
